@@ -6,6 +6,8 @@ http://blog.csdn.net/memray/article/details/17646197
 https://zh.coursera.org/learn/machine-learning
 //Latex学习与应用
 http://blog.csdn.net/memray/article/details/4528114
+//机器人工程师学习计划---非常重要
+https://zhuanlan.zhihu.com/p/22266788
 //麻省理工公开课：线性代数
 http://open.163.com/special/opencourse/daishu.html
 //麻省理工学院公开课：计算机科学及编程导论
