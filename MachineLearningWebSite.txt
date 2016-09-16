@@ -1,2 +1,4 @@
 //模式识别-机器学习-深度学习的比较
 http://www.csdn.net/article/2015-03-24/2824301
+//机器学习实战-思路框架
+http://blog.csdn.net/memray/article/details/17646197 
